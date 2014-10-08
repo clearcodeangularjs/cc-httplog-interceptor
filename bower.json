@@ -2,7 +2,7 @@
   "name": "http-logger-interceptor",
   "description": "Interceptor for logging all http requests.",
   "authors": [
-  "ClearCode (http://clearcode.cc)",
+  "ClearCode (http://clearcode.cc)"
 ],
   "version": "1.0.0",
   "main": "interceptor.js",
