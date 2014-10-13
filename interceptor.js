@@ -19,7 +19,7 @@
     along with cc-httpLogger-interceptor.  If not, see <http://www.gnu.org/licenses/>.
 
 */
-  angular.module('cc.http.interceptor')
+  angular.module('cc.http.interceptor', [])
     .config(['$httpProvider', '$log', function ($httpProvider, $log) {
       $httpProvider.interceptors.push(['$q', function ($q) {
         return {
