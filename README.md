@@ -3,7 +3,7 @@ Clearcode HTTP interceptor
 
 Interceptor that logs all http requests into console.
 --------------
-TODO
+``` bower install clearcodeangularjs/cc-httplog-interceptor --save ```
 
 
 Usage
