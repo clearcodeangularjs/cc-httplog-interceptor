@@ -1,5 +1,5 @@
 {
-	"name": "http-logger-interceptor",
+	"name": "cc-httplog-interceptor",
 	"description": "Interceptor for logging all http requests.",
 	"authors": [
 		"ClearCode (http://clearcode.cc)"
